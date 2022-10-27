@@ -34,6 +34,7 @@ a {
 }
 
 ul {
+  /* changing ul to display flex 'unstacks' the elements of the list */
   display: flex;
   margin: 0;
   padding: 0;
