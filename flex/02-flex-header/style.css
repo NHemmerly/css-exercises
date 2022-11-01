@@ -26,7 +26,7 @@ a {
 
 /* My answers below */
 
-.header {
+.header, .footer {
   padding: 8px;
   display: flex;
   align-items: center;
